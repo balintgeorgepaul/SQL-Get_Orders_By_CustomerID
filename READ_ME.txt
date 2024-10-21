@@ -1,0 +1,2 @@
+The stored procedure sp_GetOrders is an T-SQL script that can be used for different reports to extract data about orders for specific clients based on their ID in the datbabase for a specified timestamp.
+It contains multiples variables and I tried to make it as dynamic as possible to avoid hardcoding.
